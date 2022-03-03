@@ -1,4 +1,4 @@
-LISTAR INFORMACION: Lista el numero de equipos que hay de la Comunidad de Madrid y ordenados por posicion.
+LISTAR INFORMACION: Lista el numero de equipos que hay en una comunidad autonoma y ordenados por posicion.
 
 BUSCAR INFORMACION: Introduce el nombre de un equipo y aparece el estadio, nombre entrenador, nombre presidente y año de fundacion.
 
