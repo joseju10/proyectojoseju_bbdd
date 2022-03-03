@@ -6,6 +6,6 @@ INFOMACION RELACIONADA: Buscar nombre de un equipo y nos diga si va a la UEFA CH
 
 ELIMINAR INFORMACION: Elimina los tres ultimos clasificados de la tabla liga ya que han descendido a segunda division. 
 
-INSERTAR INFORMACION: Inserta los datos de los tres equipos nuevos a las tablas equipos y liga que han ascendido.
+INSERTAR INFORMACION: Inserta los datos de los tres equipos nuevos a las tablas equipos que han ascendido.
 
 ACTUALIZAR INFORMACION: Actualizaremos los datos de los entrenadores que han sido distituidos, solicitando el nombre del equipo.
