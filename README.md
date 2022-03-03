@@ -4,8 +4,8 @@ BUSCAR INFORMACION: Introduce el nombre de un equipo y aparece el estadio, nombr
 
 INFOMACION RELACIONADA: Buscar nombre de un equipo y nos diga si va a la UEFA CHAMPIONS LEAGUE, UEFA EUROPA LEAGUE, no va a competicion europea o desciende.
 
-ELIMINAR INFORMACION: Elimina los tres ultimos clasificados ya que han descendido a segunda division. 
+ELIMINAR INFORMACION: Elimina los tres ultimos clasificados de la tabla liga ya que han descendido a segunda division. 
 
-INSERTAR INFORMACION: Inserta los datos de los tres equipos nuevos que han ascendido.
+INSERTAR INFORMACION: Inserta los datos de los tres equipos nuevos a las tablas equipos y liga que han ascendido.
 
 ACTUALIZAR INFORMACION: Actualizaremos los datos de los entrenadores que han sido distituidos, solicitando el nombre del equipo.
