@@ -2,7 +2,7 @@ LISTAR INFORMACION: Lista el numero de equipos que hay de la Comunidad de Madrid
 
 BUSCAR INFORMACION: Introduce el nombre de un equipo y aparece el estadio, nombre presidente y año de fundacion.
 
-INFOMACION RELACIONADA: Buscar equipos que vayan a la UEFA CHAMPIONS LEAGUE y UEFA EUROPA LEAGUE.
+INFOMACION RELACIONADA: Buscar nombre de un equipo y nos diga si va a la UEFA CHAMPIONS LEAGUE, UEFA EUROPA LEAGUE, no va a competicion europea o desciende.
 
 ELIMINAR INFORMACION: Elimina los tres ultimos clasificados ya que han descendido a segunda division. 
 
